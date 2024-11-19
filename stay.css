@@ -1,0 +1,23 @@
+.center{
+    border: 10px solid red; width: 200px;background-color: antiquewhite;
+    margin:0 auto;
+    text-align: center;
+    color:rgb(165, 23, 23);
+    
+}
+h2{
+    font-size:25px;
+}
+.red{
+    border: 4px solid red; width: 400px;background-color:antiquewhite;
+    color:red;
+    font-size:50px;
+   
+    
+}
+.black{
+    border: 4px solid rgb(0, 0, 0); width: 400px;background-color: antiquewhite;
+    color:black;
+    font-size:50px;
+    
+}
